@@ -80,7 +80,4 @@ venv.bak/
 .vscode/
 .idea/
 
-# Project-specific large data/model artifacts
-# These can be regenerated or are too large for standard git
-data/processed/spektral_graph.pkl
-data/processed/cleaned_transactions.parquet
+
